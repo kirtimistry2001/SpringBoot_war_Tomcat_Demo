@@ -1,4 +1,4 @@
-package com.example.demo;
+package ca.kirti.springbootDemo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
